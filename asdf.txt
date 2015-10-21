@@ -1,0 +1,1 @@
+'revert' para cambiar weas que estén malas en un commit pasado
